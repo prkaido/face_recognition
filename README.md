@@ -37,10 +37,13 @@ face_recognition/
 ## 🧰 Instalación
 
 1. Clona el repositorio:
+   ```bash
    git clone https://github.com/prkaido/face_recognition.git
    cd face_recognition
-2. Instalar dependencias:
+3. Instalar dependencias:
+   ```bash
    pip install -r requirements.txt
-3. Ejecutar programa:
+5. Ejecutar programa:
+   ```bash
    python Codigo_principal.py
 Desarrollado por @prkaido
