@@ -24,16 +24,15 @@ Este proyecto implementa un sistema de **reconocimiento facial en tiempo real** 
 6. Opcionalmente, Arduino puede comunicar el estado a un PLC vía Modbus TCP/IP.
 
 ## 📂 Estructura del Proyecto
-
-face_recognition/
-├── Codigo_principal.py # Script principal de detección facial
-├── requirements.txt # Librerías necesarias
-├── image_folder/ # Imágenes de rostros autorizados
-├── Others/
-          |───Arduino_Ethernet.ino # Código para el microcontrolador
-          |───reconocimiento_facial.ino # Código para el ESP32
-└── README.md
-
+   ```bash
+      face_recognition/
+      ├── Codigo_principal.py # Script principal de detección facial
+      ├── requirements.txt # Librerías necesarias
+      ├── image_folder/ # Imágenes de rostros autorizados
+      ├── Others/
+                |───Arduino_Ethernet.ino # Código para el microcontrolador
+                |───reconocimiento_facial.ino # Código para el ESP32
+      └── README.md
 ## 🧰 Instalación
 
 1. Clona el repositorio:
