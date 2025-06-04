@@ -33,8 +33,8 @@ Este proyecto implementa un sistema de **reconocimiento facial en tiempo real** 
                 |───Arduino_Ethernet.ino # Código para el microcontrolador
                 |───reconocimiento_facial.ino # Código para el ESP32
       └── README.md
+```
 ## 🧰 Instalación
-
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/prkaido/face_recognition.git
